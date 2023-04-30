@@ -3,7 +3,7 @@
 
 Рабочая страница приложения градио https://2ec669cb325455cea3.gradio.live (действительна 72 часа с 30 апреля 19:30)
 
-Основной ноутбук с мерджами join_clean_datasets.ipynb<br>
+Основной ноутбук с очисткой данных и мерджами join_clean_datasets.ipynb<br>
 Ноутбук записи в бд df_to_sqlite.ipynb<br>
 Ноутбук градио gradio_application.ipynb
 
